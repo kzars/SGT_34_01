@@ -1,3 +1,5 @@
+package basics;
+
 public class Switch {
     public static void main(String[] args) {
 
@@ -32,7 +34,7 @@ public class Switch {
             System.out.println("Please enter number between 1 - 12");
         }
 
-        //Same logic but using basics.Switch statement
+        //Same logic but using basics.basics.Switch statement
 
         switch (month) {
             case 1:
