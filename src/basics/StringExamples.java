@@ -56,15 +56,9 @@ public class StringExamples {
             System.out.println("Child");
         }
 
-
-
-
         //Wrapper class
         int temp1 = 36;
         Integer temp2 = 36;
-
-
-
 
         String intStrValue = "1";
         String floatStrValue = "2.0";
@@ -77,16 +71,5 @@ public class StringExamples {
         float floatValue = Float.parseFloat(floatStrValue);
         boolean booleanValue = Boolean.parseBoolean(booleanStrValue);
         long longValue = Long.parseLong(longStrValue);
-
-
-
-
-
-
-
-
-
-
-
     }
 }
