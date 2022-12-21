@@ -33,9 +33,5 @@ public class CallingCarClass {
             System.out.println("Regular car");
         }
 
-
-
-
-
     }
 }
